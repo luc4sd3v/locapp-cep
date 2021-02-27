@@ -1,7 +1,6 @@
 # LocApp CEP
 ## O LocApp CEP é um simples app localizador de CEP ( Codigo postal brasileiro ) criando em Dart com o Framework Flutter para fins de estudos.
 
-
 # Screenshots do App
 
 <p align="center">
